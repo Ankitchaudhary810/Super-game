@@ -1,0 +1,47 @@
+[33mcommit ee0b4ccbdab3caf7bb41911735cd54dca30bc554[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/game[m[33m)[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 10:22:38 2023 +0530
+
+    building game card
+
+[33mcommit ec358c47f8b7bd9a6c9710a06e181117ac535d0a[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 10:11:37 2023 +0530
+
+    created a custom hook for games
+
+[33mcommit 392e5ea0b8296de0ca870c5b7d093e5ffd6746b2[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 10:00:20 2023 +0530
+
+    fetch the game
+
+[33mcommit a7b61829ef527f0c762c64b25285631fda202a3d[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 09:33:39 2023 +0530
+
+    build the color mode switch
+
+[33mcommit 0c977f0bfb6978a512701806e099d6ebdcb3fd30[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 09:26:13 2023 +0530
+
+    added dark mode
+
+[33mcommit 9bb098ee746f3a0d4cf8e498e4672f9e41399728[m
+Author: Ankit Chaudhary <ankitcha810@gmail.com>
+Date:   Sat Oct 28 09:17:50 2023 +0530
+
+    build a nav bar
+
+[33mcommit ad3ffb1b781f667a4bbc97565a862c7ca4b93b65[m
+Author: Ankit <ankitcha810@gmail.com>
+Date:   Sat Oct 28 08:53:53 2023 +0530
+
+    build a responsive layout
+
+[33mcommit 62f0f714ddad17fc9a8ba5689d3b60e017bbb3f0[m
+Author: Ankit <ankitcha810@gmail.com>
+Date:   Sat Oct 28 08:39:58 2023 +0530
+
+    chakra ui  insalled
