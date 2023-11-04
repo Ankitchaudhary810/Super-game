@@ -42,15 +42,5 @@ You can check out the live version of this project [here](https://super-game-raw
 ## API Key
 This project uses the RAWG Video Games Database API. You will need to sign up and get an API key from the [RAWG Developer Dashboard](https://rawg.io/apidocs) to make API requests. 
 
-## Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests if you find any bugs or want to enhance the project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Copy
-[![Copy to Clipboard](https://img.shields.io/badge/Copy-README-blue?style=for-the-badge)](./README.md)
-
----
 
 Happy Gaming! 🎮
