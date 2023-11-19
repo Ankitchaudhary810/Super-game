@@ -3,7 +3,7 @@
 ## Overview
 This is a Rawg Clone project built with TypeScript. It features dark mode, skeleton loading, the ability to search games by name, and filter games. It primarily uses Chakra UI for styling and responsive design.
 
-You can check out the live version of this project [here](https://super-game-rawg.netlify.app/).
+You can check out the live version of this project [here](https://super-game-rawg.netlify.app/) https://super-game-rawg.netlify.app.
 
 ## Features
 
